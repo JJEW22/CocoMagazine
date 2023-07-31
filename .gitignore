@@ -1,0 +1,5 @@
+Writing/
+__pycache__/
+.idea/
+venv/
+.ipynb_checkpoints/
